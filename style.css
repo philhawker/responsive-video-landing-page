@@ -21,10 +21,12 @@ a {
 }
 
 h1 {
-  font-weight: 300;
+  font-weight: 800;
   font-size: 60px;
   line-height: 1.2;
   margin-bottom: 15px;
+  color: rgb(0, 172, 252);
+  text-shadow: 2px 2px black;
 }
 
 .showcase {
