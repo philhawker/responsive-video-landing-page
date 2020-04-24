@@ -29,6 +29,11 @@ h1 {
   text-shadow: 2px 2px black;
 }
 
+h2 {
+  color: rgb(0, 172, 252);
+  text-shadow: 2px 2px black;
+}
+
 .showcase {
   position: relative;
   height: 100vh;
